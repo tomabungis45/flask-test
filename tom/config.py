@@ -7,4 +7,4 @@ class Config:
     MAIL_PORT = 587
     MAIL_USE_TLS = True
     MAIL_USERNAME = 'kollodoku123'
-    MAIL_PASSWORD = '33111100bigboy'
+    MAIL_PASSWORD = '---------'
