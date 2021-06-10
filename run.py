@@ -1,5 +1,5 @@
 from tom import create_app
-from tom import db
+#from tom import db
 
 app = create_app()
 #with app.app_context(): db.create_all()
