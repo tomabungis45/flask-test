@@ -2,7 +2,7 @@ import os
 
 class Config:
     SECRET_KEY = 'YWyLArK5ZWTeKZGg'
-    SQLALCHEMY_DATABASE_URI = 'postgres://bsqjhhfdcqqiew:a2c418b00c7169cd4d68d9615fd78f059792103051640709ec723a21aa561dea@ec2-52-19-170-215.eu-west-1.compute.amazonaws.com:5432/de0mpkfvg9u3r6'
+    SQLALCHEMY_DATABASE_URI = 'postgres://cgnztvftuhyrpd:f79b77a9d1ed2c712244aa0a12d07b4e84244f3a5f2ed86252d17831f6f22e28@ec2-63-32-7-190.eu-west-1.compute.amazonaws.com:5432/d6efaus4dmuaga'
     MAIL_SERVER = 'smtp.googlemail.com'
     MAIL_PORT = 587
     MAIL_USE_TLS = True
